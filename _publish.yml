@@ -1,0 +1,4 @@
+- source: readme.qmd
+  netlify:
+    - id: 77630d4b-802b-4439-9cc0-ad320ca5cd68
+      url: 'https://ornate-scone-a48a41.netlify.app'
